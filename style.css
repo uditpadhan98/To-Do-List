@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(246, 179, 34);
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.title{
+    font-size: 25px;
+}
+
+#user{
+    width: 250px;
+}
